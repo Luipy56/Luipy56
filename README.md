@@ -228,9 +228,11 @@ Good software should not only meet its current requirements. It should also be c
 
 [![GitHub](https://img.shields.io/badge/GitHub-Luipy56-111111?style=flat-square\&logo=github\&logoColor=white)](https://github.com/Luipy56)
 [![Website](https://img.shields.io/badge/Website-ldeluipy.es-111111?style=flat-square\&logo=firefoxbrowser\&logoColor=white)](https://ldeluipy.es)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Yoel_Berjaga-111111?style=flat-square\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/yoel-berjaga-71a0073b1/)
 [![Discord](https://img.shields.io/badge/Discord-luipy56-111111?style=flat-square\&logo=discord\&logoColor=white)](https://discord.com/app)
 
 ---
+
 
 <p align="center">
   <sub>Reliable systems. Useful software. Intentional complexity.</sub>
