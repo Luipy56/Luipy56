@@ -13,25 +13,30 @@ I run Linux infrastructure and self-hosted services, build web apps, and write a
 ![Astro](https://img.shields.io/badge/Astro-111111?style=flat-square&logo=astro&logoColor=white)
 ![Godot](https://img.shields.io/badge/Godot-111111?style=flat-square&logo=godotengine&logoColor=white)
 
-## Featured
+## Projects
 
-### [Ultron](https://github.com/AMVARA-CONSULTING/ultron-redmine)
+### [Maestro](https://github.com/AMVARA-CONSULTING/maestro)
 
-Discord bot for the AMVARA team. It talks to Redmine (slash commands, scheduled listings, allowlisted @mentions) and can use an LLM when that helps the workflow.
+Discord ultra-orchestrator for my ops. Slash commands or plain language, a project catalog with context packs, and cursor-agent on the right host over SSH. Threads stay bound to the session so work can resume without re-explaining the fleet.
 
-`Python` `Discord` `Redmine` `LLM` `systemd`
+`Python` `Discord` `cursor-agent` `SSH` `systemd`
 
 ### [Helio-3](https://helio3.ldeluipy.es)
 
-Physics incremental in Godot: hero field, Quantum Shop, Cuantización (PP). Public landing, play builds, and releases at [helio3.ldeluipy.es](https://helio3.ldeluipy.es).
+Physics incremental in Godot: hero field, Quantum Shop, Cuantización (PP). Landing, play builds, and releases at [helio3.ldeluipy.es](https://helio3.ldeluipy.es).
 
 `Godot` `Game design` `Web` `Playtest`
 
-### Also
+### [laravel-ecommerce](https://github.com/Luipy56/laravel-ecommerce)
+
+Laravel REST API + React storefront/admin (Vite, Tailwind, daisyUI). Catalogue, cart, checkout, payments, admin CRUD, and UI in Catalan, Spanish, and English.
+
+`Laravel` `React` `Vite` `Tailwind` `PostgreSQL`
 
 | Project | What |
 |---------|------|
-| [KM0 Web](https://github.com/Luipy56/km0-web) | Multilingual Astro + Tailwind marketing site (Docker / Nginx) |
+| [Ultron](https://github.com/AMVARA-CONSULTING/ultron-redmine) | Discord ↔ Redmine bot (slash, schedules, optional LLM) |
+| [KM0 Web](https://github.com/Luipy56/km0-web) | Multilingual Astro + Tailwind marketing site |
 | [LdeLuipy](https://github.com/Luipy56/LdeLuipy) | Personal hub for projects, docs, and experiments |
 | [Betterclip](https://github.com/Luipy56/betterclip) | Linux clipboard history via Rofi |
 | [MC Texture Viewer](https://github.com/Luipy56/mc-texture-viewer) | Embeddable 3D Minecraft-style model viewer |
