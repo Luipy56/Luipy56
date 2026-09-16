@@ -1,8 +1,8 @@
 # Hi, I'm Yoel (Luipy)
 
-**DevOps, Systems & Software Engineer at [AMVARA](https://amvara.de)** · Badalona, Catalonia
+DevOps, systems and software engineer at [AMVARA](https://amvara.de). Based in Badalona, Catalonia.
 
-I build and operate Linux infrastructure, self-hosted services, web apps, automation, and practical AI agents. Prefer systems that stay understandable, reproducible, and maintainable.
+I run Linux infrastructure and self-hosted services, build web apps, and write automation. That includes Discord bots and AI agents when they actually save time. I pick tools for the job and try to leave systems I can still follow when something breaks months later.
 
 ![Linux](https://img.shields.io/badge/Linux-111111?style=flat-square&logo=linux&logoColor=white)
 ![Debian](https://img.shields.io/badge/Debian-111111?style=flat-square&logo=debian&logoColor=white)
@@ -13,19 +13,17 @@ I build and operate Linux infrastructure, self-hosted services, web apps, automa
 ![Astro](https://img.shields.io/badge/Astro-111111?style=flat-square&logo=astro&logoColor=white)
 ![Godot](https://img.shields.io/badge/Godot-111111?style=flat-square&logo=godotengine&logoColor=white)
 
----
-
 ## Featured
 
 ### [Ultron](https://github.com/AMVARA-CONSULTING/ultron-redmine)
 
-Discord bot that connects **Redmine** with optional LLMs: slash commands, scheduled listings, allowlisted @mentions, and ops workflows for the AMVARA team.
+Discord bot for the AMVARA team. It talks to Redmine (slash commands, scheduled listings, allowlisted @mentions) and can use an LLM when that helps the workflow.
 
 `Python` `Discord` `Redmine` `LLM` `systemd`
 
 ### [Helio-3](https://helio3.ldeluipy.es)
 
-Physics incremental built in **Godot** — hero field, Quantum Shop, Cuantización (PP). Public landing, play builds, and releases at [helio3.ldeluipy.es](https://helio3.ldeluipy.es).
+Physics incremental in Godot: hero field, Quantum Shop, Cuantización (PP). Public landing, play builds, and releases at [helio3.ldeluipy.es](https://helio3.ldeluipy.es).
 
 `Godot` `Game design` `Web` `Playtest`
 
@@ -34,19 +32,15 @@ Physics incremental built in **Godot** — hero field, Quantum Shop, Cuantizaci�
 | Project | What |
 |---------|------|
 | [KM0 Web](https://github.com/Luipy56/km0-web) | Multilingual Astro + Tailwind marketing site (Docker / Nginx) |
-| [LdeLuipy](https://github.com/Luipy56/LdeLuipy) | Personal hub — projects, docs, experiments |
+| [LdeLuipy](https://github.com/Luipy56/LdeLuipy) | Personal hub for projects, docs, and experiments |
 | [Betterclip](https://github.com/Luipy56/betterclip) | Linux clipboard history via Rofi |
 | [MC Texture Viewer](https://github.com/Luipy56/mc-texture-viewer) | Embeddable 3D Minecraft-style model viewer |
 
----
-
 ## Focus
 
-Infrastructure & containers · mail & monitoring · web (static → full apps) · Discord / Redmine bots · local AI and agentic ops tools.
+Containers, mail, monitoring, websites (static through full apps), Discord/Redmine bots, and local AI for ops when it earns its keep.
 
-> Automate what repeats, document what matters, keep complexity proportional to the problem.
-
----
+Automate what repeats. Document what matters. Keep complexity proportional to the problem.
 
 ## Connect
 
@@ -55,7 +49,3 @@ Infrastructure & containers · mail & monitoring · web (static → full apps) �
 [![Helio-3](https://img.shields.io/badge/Helio--3-helio3.ldeluipy.es-111111?style=flat-square&logo=godotengine&logoColor=white)](https://helio3.ldeluipy.es)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Yoel_Berjaga-111111?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yoel-berjaga-71a0073b1/)
 [![Discord](https://img.shields.io/badge/Discord-luipy56-111111?style=flat-square&logo=discord&logoColor=white)](https://discord.com/app)
-
-<p align="center">
-  <sub>Reliable systems. Useful software. Intentional complexity.</sub>
-</p>
